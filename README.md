@@ -10,4 +10,9 @@ I’m **GHOMARI Alae**, a **Computer Science student** and **Master’s AI stude
 - 📱 **Mobile Development:** Flutter / Dart  
 - 🌐 **Frontend:** React / JavaScript  
 - ⚙️ **Backend:** Laravel / PHP  
-- 🤖 **AI & ML:** Python (NLP, Machine Learning, Deep Learning)  
+- 🤖 **AI & ML:**  
+  - Natural Language Processing (NLP)  
+  - Machine Learning & Deep Learning  
+  - Computer Vision & Image Processing  
+  - Speech Processing  
+  
