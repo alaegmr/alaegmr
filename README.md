@@ -6,7 +6,6 @@ I’m **GHOMARI Alae**, a **Computer Science student** | **Master’s AI student
 
 ---
 
-## 🛠️ Tech Stack
 - 📱 **Mobile Development:** Flutter / Dart  
 - 🌐 **Frontend:** React / JavaScript  
 - ⚙️ **Backend:** Laravel / PHP  
