@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I’m **GHOMARI Alae**, **Computer Science student** | **Master’s AI student**, passionate about building apps and exploring the world of artificial intelligence   
+I’m **GHOMARI Alae**, **Computer Science ** | **Master’s AI student**, passionate about building apps and exploring the world of artificial intelligence   
 
 ✨ Always learning, always building!  
 
