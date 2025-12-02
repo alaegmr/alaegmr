@@ -1,14 +1,16 @@
 # Hi there! 👋
 
-I’m **GHOMARI Alae**, **Computer Science** | **Master’s AI student**, passionate about building apps and exploring the world of artificial intelligence   
+I’m **GHOMARI Alae**, a **Master’s student in AI** and passionate about building projects in software and AI.  
 
-✨ Always learning, always building!  
+This GitHub account is where I share my personal and academic projects.  
 
 ---
+
+✨ **Skills & Interests:**  
 
 - 📱 **Mobile Development:** Flutter / Dart  
 - 🌐 **Frontend:** React / JavaScript  
 - ⚙️ **Backend:** Laravel / PHP  
-- 🤖 **AI & ML:** Python 
- 
-  
+- 🤖 **AI & ML:** Python  
+
+Always learning, always building!
